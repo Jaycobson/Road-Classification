@@ -7,3 +7,7 @@ This is an interesting project which classifies roads into clean or dirty roads.
 I trained my models severally to determine which will give the best outputs. Again, pretrained models performed well here. This is expected because we had just about 280 images in the dataset. This is too small but the model was able to perform excellently.
 
 I tried to use external data from the web to test the model, it performed well too. This model can be deployed to determine how long a commuter is likely to spend on the road. It can also be used to manage traffic and improve transiting from one place to another.
+
+
+
+--The dataset for this project was obtained from kaggle.
